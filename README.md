@@ -4,7 +4,7 @@
 
 <p align="center"> 
 <a href="https://twitter.com/HalimOFFI"><img alt="Twitter" src="https://img.shields.io/badge/-HalimOFFI-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/HalimOFFI"></a>
-<a href="https://halimshams.medium.com"><img alt="Medium" src="https://img.shields.io/badge/-HalimSH-black?style=flat-square&logo=dev.to&logoColor=white&link=https://halimshams.medium.com"></a>
+<a href="https://halimshams.medium.com"><img alt="Medium" src="https://img.shields.io/badge/-HalimSH-black?style=flat-square&logo=medium&logoColor=white&link=https://halimshams.medium.com"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
