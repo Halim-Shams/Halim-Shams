@@ -22,10 +22,6 @@
 
 ### 📊 Profile stats
 
-<p align="center">
-  <img  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="248px" width="360px" alt="illustration" style="border-radius:5%" align="right">
-  </p>
-
 <p align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Halim-Shams&theme=radical">
     
