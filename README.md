@@ -26,8 +26,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Halim-Shams&theme=radical">
     
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Halim-Shams&show_icons=true&theme=tokyonight"> 
-    <img src="https://i.pinimg.com/originals/7b/7e/07/7b7e0712e9c23914f938ec7f51cd0951.png" height="200px" width="200px" alt="illustration" align="right">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Halim-Shams&show_icons=true&theme=tokyonight">
     
 <p align="center">
      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Halim-Shams"> 
