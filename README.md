@@ -22,13 +22,15 @@
 
 ### 📊 Profile stats
 
-<p align="center">
+<p align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Halim-Shams&theme=radical">
     
-<p align="center">
+<p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Halim-Shams&show_icons=true&theme=tokyonight">
     
-<p align="center">
+<p align="left">
      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Halim-Shams"> 
+    
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Halim-Shams&show_icons=true&locale=en&layout=compact"  height="248px" width="400px"alt="Halim Shams" /></p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
